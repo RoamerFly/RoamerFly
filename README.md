@@ -11,7 +11,9 @@
 
 ## ◆ About Me
 
-偏 **产品与应用工程方向** 的开发者，喜欢把真实需求、底层能力和技术组件组合成完整的软件产品。主要关注 `Desktop Applications` · `Media Processing` · `Search & Retrieval` · `System Utilities` · `Computer Vision`。
+偏 **产品与应用工程方向** 的开发者，喜欢把真实需求、底层能力和技术组件组合成完整的软件产品。
+
+主要关注 `Desktop Applications` · `Media Processing` · `Search & Retrieval` · `System Utilities` · `Computer Vision`。
 
 相比单独实现某个算法或功能，我更关注 **需求 → 架构 → UI → 核心能力 → 数据 → 打包发行** 的完整链路。
 
