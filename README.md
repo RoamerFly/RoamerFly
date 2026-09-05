@@ -19,26 +19,6 @@
 
 > **Make complex capabilities usable.**
 
-## ◈ Engineering Profile
-
-<table>
-<tr>
-<td width="25%" align="center"><b>Desktop</b><br/><sub>Rust · Tauri · WPF</sub></td>
-<td width="25%" align="center"><b>Media</b><br/><sub>FFmpeg · Video · Audio</sub></td>
-<td width="25%" align="center"><b>Search</b><br/><sub>CLIP · FAISS · OCR</sub></td>
-<td width="25%" align="center"><b>Product</b><br/><sub>UI · Workflow · Release</sub></td>
-</tr>
-</table>
-
-```text
-PRODUCT ENGINEERING
-├─ Desktop Apps ─── Rust · Tauri · C# · WPF
-├─ Media ────────── FFmpeg · Video · Audio
-├─ Search & Vision  CLIP · FAISS · OCR · PyTorch
-├─ App Stack ────── React · TypeScript · Python
-└─ Delivery ─────── CI/CD · Packaging · Cross-platform
-```
-
 ## ◇ Tech Stack
 
 <div align="center">
